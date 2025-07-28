@@ -2,7 +2,7 @@
  * GPIO.c
  *
  *  Created on: Jul 28, 2025
- *      Author: Ziad-Mohmed
+ *      Author: Ziad_Mohamed
  */
 #include "GPIO.h"
 
